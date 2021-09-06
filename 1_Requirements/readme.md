@@ -1,15 +1,14 @@
-# Introduction
-# Objective
-# SWOT ANALYSIS
-# 4 W's and 1H
-# Who
-# What
-# When
-# Why
-# How
-# HIGH LEVEL REQUIREMENTS:
-# LOW LEVEL REQUIREMENTS:
- #  VALIDATION
- #  BASIC OPERATIONS
- #  ALGORITHMS
- #  SOLUTION
+## Introduction
+## Objective
+## SWOT ANALYSIS
+## ***4 W's and 1H***
+## Who
+## What
+## When
+## How
+## HIGH LEVEL REQUIREMENTS:
+## LOW LEVEL REQUIREMENTS:
+### VALIDATION
+###  BASIC OPERATIONS
+### ALGORITHMS
+### SOLUTION
