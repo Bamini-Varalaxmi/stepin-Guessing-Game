@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Bamini-Varalaxmi 
-Aarthi-Mamidala
-/
-stepin_Arithmetic-calculator
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-stepin_Arithmetic-calculator/3_Implementation/unity/unity_internals.h
-@Aarthi-Mamidala
-Aarthi-Mamidala Update unity_internals.h
-Latest commit 6369bfe 28 minutes ago
- History
- 1 contributor
-1039 lines (906 sloc)  84.9 KB
-  
 /* ==========================================
     Unity Project - A Test Framework for C
     Copyright (c) 2007-21 Mike Karlesky, Mark VanderVoord, Greg Williams
@@ -1067,15 +1038,3 @@ int UnityTestMatches(void);
 /* End of UNITY_INTERNALS_H */
 #endif
 © 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
