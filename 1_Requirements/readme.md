@@ -23,7 +23,3 @@ The guessing game is two-person game called "Guess te number". The first player 
 |-----|------------|
 |LLR_01 | reference number |
 |LLR_02 |guessed number |
-### VALIDATION
-###  BASIC OPERATIONS
-### ALGORITHMS
-### SOLUTION
