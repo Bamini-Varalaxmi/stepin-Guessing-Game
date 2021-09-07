@@ -1,6 +1,6 @@
 ## Introduction
 The guessing game is two-person game called "Guess te number". The first player thinks of an integer within a known range. If the guess is incorrect then the first player tells the second player whether the guess was too high or too low. Eventusally the second player guesses the correct number. 
-## SWOT ANALYSIS!
+## SWOT ANALYSIS
 ![Screenshot (230)](https://user-images.githubusercontent.com/89648206/132314075-9d5d147b-6ebf-423d-bda4-03099ab72553.png)
 
 
