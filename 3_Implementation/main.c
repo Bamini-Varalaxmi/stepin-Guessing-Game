@@ -14,17 +14,17 @@ int main() {
    int num=5, flag=1, guesses, count=0, random1, random2;
    printf("guess the number randomly within 1 to 10 range\n");
    do {
-      printf("enter number");
+      printf("enter number\n");
       scanf("%d", &guesses);
       count++;
       if(guesses>10 || guesses <1){
-         printf("please select the number within the range");
+         printf("please select the number within the range\n");
          continue;
       }
       guess(guesses);
       if(num==guesses){
          flag=0;
-      printf("guessed properly ");
+      printf("guessed properly\n ");
       }
       else{
       random2= game();
