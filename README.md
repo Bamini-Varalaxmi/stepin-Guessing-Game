@@ -10,3 +10,6 @@ Folder                   | Description
 `5_Report`               | Documentation of whole project
 `6_ImagesAndVideos`      | Code Execution Images and Videos
 `7_`Others      | Other files
+
+[![Code Quality](https://www.code-inspector.com/project/28121/score/svg)](https://www.code-inspector.com)
+[![Code grade](https://www.code-inspector.com/project/28121/status/svg)](https://www.code-inspector.com)
