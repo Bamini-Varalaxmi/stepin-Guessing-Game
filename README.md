@@ -14,3 +14,4 @@ Folder                   | Description
 [![Code Quality](https://www.code-inspector.com/project/28121/score/svg)](https://www.code-inspector.com)
 [![Code grade](https://www.code-inspector.com/project/28121/status/svg)](https://www.code-inspector.com)
 [![C/C++ CI](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/c-cpp.yml)
+[![CI](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/main.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/main.yml)
